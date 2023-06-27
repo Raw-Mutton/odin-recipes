@@ -1,0 +1,25 @@
+.food-image {
+    height: auto;
+    width: 400px;
+}
+
+.chef-image {
+    height: 600px;
+    width: auto;
+}
+
+body {
+    text-align: center;
+    background-color: #373737;
+    color: #bdbdbd;
+}
+
+ul.my-list,
+ol.my-list {
+    display: inline-block;
+    text-align: left;
+}
+
+.link {
+    color: powderblue;
+}
